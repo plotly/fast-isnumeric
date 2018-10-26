@@ -22,6 +22,9 @@
     "url": "https://github.com/plotly/fast-isnumeric/issues"
   },
   "homepage": "https://github.com/plotly/fast-isnumeric#readme",
+  "dependencies": {
+    "is-string-blank": "^1.0.1"
+  },
   "devDependencies": {
     "jasmine-core": "^2.3.4",
     "karma": "^0.13.15",
