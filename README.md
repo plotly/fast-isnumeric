@@ -42,8 +42,8 @@ npm test
 
 ### Why?
 
-In [plotly](https://plot.ly/)'s javascript graphing library
-[plotly.js](https://plot.ly/javascript/) numerical objects must be accounted
+In [plotly](https://plotly.com/)'s javascript graphing library
+[plotly.js](https://plotly.com/javascript/) numerical objects must be accounted
 for in numerous hot code paths. Inspired by Jon Schlinkert's
 [is-number](https://github.com/jonschlinkert/is-number), `fast-isnumeric` is
 significantly simplified and sped up by ignoring number and string constructors.
